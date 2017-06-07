@@ -3,7 +3,6 @@
 
 # Gradle
 .gradle/
-gradle/
 build
 
 # IntelliJ IDE
