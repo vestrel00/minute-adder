@@ -3,7 +3,11 @@
 
 # Gradle
 .gradle/
+gradle/
 build
 
 # IntelliJ IDE
 .idea/
+
+# OS X
+.DS_Store
